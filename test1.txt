@@ -1,2 +1,1 @@
-usr2 add commit
-new line
+some changes add feature1
