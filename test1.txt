@@ -1,2 +1,4 @@
 some changes add feature1
 some changes line2 add feature1
+new line 7
+
