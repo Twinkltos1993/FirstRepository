@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 some changes add feature1
 some changes line2 add feature1
 new line 7
 
+=======
+from add feature
+from add master!!!
+
+>>>>>>> da0fa82a58eb1ee8bc38e97f9d3cf5b20ba70c6d
